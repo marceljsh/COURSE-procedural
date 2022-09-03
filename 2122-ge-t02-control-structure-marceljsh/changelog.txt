@@ -1,0 +1,9 @@
+mencoba solve nomor 1
+revisi nomor 1
+revisi logika nomor 1
+revisi logika nomor 1
+mencoba solve nomor 2
+revisi logika nomor 2
+mencoba solve nomor 3
+revisi logika nomor 3
+revisi logika nomor 3 (menyesuaikan autograding.json, namun menurut saya ada kesalahan dalam penilaian)

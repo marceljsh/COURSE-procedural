@@ -1,0 +1,2 @@
+Saya telah mengkompilasi t00_01.c melalui Git Bash dengan perintah yang diberikan, mendapat hasil yang diharapkan dan program memberi keluaran sesuai instruksi.
+Saya telah mengkompilasi t00_02.c melalui Git Bash dengan perintah yang diberikan, mendapat hasil yang diharapkan dan program memberi keluaran sesuai instruksi.
