@@ -1,0 +1,198 @@
+gcc t08_01.c ./libs/gender.c ./libs/dorm.c ./libs/student.c -o t08_01 -Wall
+gcc t08_02.c ./libs/gender.c ./libs/dorm.c ./libs/student.c -o t08_02 -Wall
+
+[01-01]
+student-add#12S21001#Dhino Turnip#2021#male
+student-add#12S21002#Marudut Tampubolon#2021#male
+student-add#12S21003#Jusas Tampubolon#2021#male
+student-print-all
+student-add#12S21004#Estomihi pangaribuan#2021#male
+student-add#12S21006#Weny Sitinjak#2021#female
+student-add#12S21007#Dame Sitinjak#2021#female
+student-add#12S21008#Tuani Manurung#2021#male
+student-add#12S21009#Mikhael Pakpahan#2021#male
+student-add#12S21010#Bobby Siagian#2021#male
+student-add#12S21011#Aldi Simamora#2021#male
+student-print-all
+---
+
+12S21001|Dhino Turnip|2021|male
+12S21002|Marudut Tampubolon|2021|male
+12S21003|Jusas Tampubolon|2021|male
+12S21001|Dhino Turnip|2021|male
+12S21002|Marudut Tampubolon|2021|male
+12S21003|Jusas Tampubolon|2021|male
+12S21004|Estomihi pangaribuan|2021|male
+12S21006|Weny Sitinjak|2021|female
+12S21007|Dame Sitinjak|2021|female
+12S21008|Tuani Manurung|2021|male
+12S21009|Mikhael Pakpahan|2021|male
+12S21010|Bobby Siagian|2021|male
+12S21011|Aldi Simamora|2021|male
+
+
+
+[01-02]
+student-add#12S21001#Dhino Turnip#2021#male
+student-add#12S21002#Marudut Tampubolon#2021#male
+student-add#12S21003#Jusas Tampubolon#2021#male
+student-add#12S21006#Weny Sitinjak#2021#female
+student-add#12S21004#Estomihi pangaribuan#2021#male
+student-add#12S21007#Dame Sitinjak#2021#female
+student-add#12S21008#Tuani Manurung#2021#male
+student-print-all
+student-add#12S21009#Mikhael Pakpahan#2021#male
+student-add#12S21010#Bobby Siagian#2021#male
+student-add#12S21011#Aldi Simamora#2021#male
+student-print-all
+---
+
+12S21001|Dhino Turnip|2021|male
+12S21002|Marudut Tampubolon|2021|male
+12S21003|Jusas Tampubolon|2021|male
+12S21006|Weny Sitinjak|2021|female
+12S21004|Estomihi pangaribuan|2021|male
+12S21007|Dame Sitinjak|2021|female
+12S21008|Tuani Manurung|2021|male
+12S21001|Dhino Turnip|2021|male
+12S21002|Marudut Tampubolon|2021|male
+12S21003|Jusas Tampubolon|2021|male
+12S21006|Weny Sitinjak|2021|female
+12S21004|Estomihi pangaribuan|2021|male
+12S21007|Dame Sitinjak|2021|female
+12S21008|Tuani Manurung|2021|male
+12S21009|Mikhael Pakpahan|2021|male
+12S21010|Bobby Siagian|2021|male
+12S21011|Aldi Simamora|2021|male
+
+
+
+[02-01]
+dorm-add#Pniel#20#female
+dorm-add#Kapernaum#20#male
+dorm-print-all
+dorm-add#Antiokia#20#male
+dorm-print-all
+---
+
+Pniel|20|female
+Kapernaum|20|male
+Pniel|20|female
+Kapernaum|20|male
+Antiokia|20|male
+
+
+
+[02-02]
+dorm-add#Pniel#20#female
+dorm-add#Kapernaum#20#male
+dorm-print-all
+dorm-add#Antiokia#20#male
+dorm-add#Mamre#20#male
+dorm-add#Silo#20#male
+dorm-add#Mahanaim#20#male
+dorm-add#Nazaret#20#male
+dorm-print-all
+---
+
+Pniel|20|female
+Kapernaum|20|male
+Pniel|20|female
+Kapernaum|20|male
+Antiokia|20|male
+Mamre|20|male
+Silo|20|male
+Mahanaim|20|male
+Nazaret|20|male
+
+
+
+[02-03]
+student-print-all
+dorm-print-all
+student-add#12S21001#Dhino Turnip#2021#male
+student-add#12S21002#Marudut Tampubolon#2021#male
+student-add#12S21003#Jusas Tampubolon#2021#male
+student-add#12S21004#Estomihi pangaribuan#2021#male
+student-add#12S21006#Weny Sitinjak#2021#female
+student-add#12S21007#Dame Sitinjak#2021#female
+student-add#12S21008#Tuani Manurung#2021#male
+dorm-add#Pniel#20#female
+dorm-add#Kapernaum#20#male
+dorm-print-all
+student-add#12S21009#Mikhael Pakpahan#2021#male
+student-add#12S21010#Bobby Siagian#2021#male
+student-add#12S21011#Aldi Simamora#2021#male
+student-print-all
+dorm-add#Antiokia#20#male
+dorm-add#Mamre#20#male
+dorm-add#Silo#20#male
+dorm-add#Mahanaim#20#male
+dorm-add#Nazaret#20#male
+dorm-print-all
+---
+
+Pniel|20|female
+Kapernaum|20|male
+12S21001|Dhino Turnip|2021|male
+12S21002|Marudut Tampubolon|2021|male
+12S21003|Jusas Tampubolon|2021|male
+12S21004|Estomihi pangaribuan|2021|male
+12S21006|Weny Sitinjak|2021|female
+12S21007|Dame Sitinjak|2021|female
+12S21008|Tuani Manurung|2021|male
+12S21009|Mikhael Pakpahan|2021|male
+12S21010|Bobby Siagian|2021|male
+12S21011|Aldi Simamora|2021|male
+Pniel|20|female
+Kapernaum|20|male
+Antiokia|20|male
+Mamre|20|male
+Silo|20|male
+Mahanaim|20|male
+Nazaret|20|male
+
+
+::error::The output for test t08&#45;02&#45;03 did not match
+Expected:
+Pniel|20|female
+Kapernaum|20|male
+12S21001|Dhino Turnip|2021|male
+12S21002|Marudut Tampubolon|2021|male
+12S21003|Jusas Tampubolon|2021|male
+12S21004|Estomihi pangaribuan|2021|male
+12S21006|Weny Sitinjak|2021|female
+12S21007|Dame Sitinjak|2021|female
+12S21008|Tuani Manurung|2021|male
+12S21009|Mikhael Pakpahan|2021|male
+12S21010|Bobby Siagian|2021|male
+12S21011|Aldi Simamora|2021|male
+Pniel|20|female
+Kapernaum|20|male
+Antiokia|20|male
+Mamre|20|male
+Silo|20|male
+Mahanaim|20|male
+Nazaret|20|male
+Actual:
+|||male
+Pniel|20|female
+Kapernaum|20|male
+|||male
+12S21001|Dhino Turnip|2021|male
+12S21002|Marudut Tampubolon|2021|male
+12S21003|Jusas Tampubolon|2021|male
+12S21004|Estomihi pangaribuan|2021|male
+12S21006|Weny Sitinjak|2021|female
+12S21007|Dame Sitinjak|2021|female
+12S21008|Tuani Manurung|2021|male
+12S21009|Mikhael Pakpahan|2021|male
+12S21010|Bobby Siagian|2021|male
+12S21011|Aldi Simamora|2021|male
+Pniel|20|female
+Kapernaum|20|male
+Antiokia|20|male
+Mamre|20|male
+Silo|20|male
+Mahanaim|20|male
+Nazaret|20|male

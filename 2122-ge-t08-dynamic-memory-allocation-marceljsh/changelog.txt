@@ -1,0 +1,6 @@
+mencoba solve 01
+mencoba solve 02
+menginisialisasi var delim di 02 yang kosong dan menyebabkan saya kebingungan 2 jam :)
+merapikan code
+flush stdin dan out
+merubah metode alokasi memori

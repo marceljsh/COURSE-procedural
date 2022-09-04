@@ -1,0 +1,6 @@
+mencoba menyelesaikan 01
+revisi separator pada format
+mencoba menyelesaikan 02
+menyesuaikan jumlah dan posisi line break
+mencoba menyelesaikan 03
+mengganti metode branching
