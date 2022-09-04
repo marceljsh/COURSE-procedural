@@ -1,0 +1,1 @@
+Import artefak lalu meng-instansiasi objek dalam repository
