@@ -1,0 +1,8 @@
+mencoba menyelesaikan t1
+mengganti solusi t1
+merevisi detail
+merevisi detail
+merevisi detail
+mencoba mengatasi "\r\n" yang tidak diberitahu cara mengatasinya
+mencoba menyelesaikan t1 dan t2 (di compiler local sudah berfungsi, mungkin karena tidak ada \r\n)
+menghilangkan bug

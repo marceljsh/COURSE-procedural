@@ -1,0 +1,12 @@
+mencoba menyelesaikan task 1
+merevisi 01
+revisi 01-2
+revisi 01-3
+mencoba memotong solusi
+merevisi 01
+revisi 01
+mencoba 02
+mengembalikan code yang tadi dipotong
+mengubah solusi
+merubah metode input
+merubah kesalahan
