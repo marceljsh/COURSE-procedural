@@ -1,7 +1,7 @@
 # [COURSE]-procedural-programming
 
 ## `Overview🏝`
-_Pemrograman Prosedural_ (`PEMPROS`) is a course of Information Systems students learn in Del Institute of Technology. This course requires the use of C language for program development. The development of the program is sequential, which means that all tasks, quizzes and exams are linked periodically.
+_Pemrograman Prosedural_ (`PEMPROS`) is a course of Information Systems students learn in Del Institute of Technology. This course requires the use of `C` language for program development. The development of the program is sequential, which means that all tasks, quizzes and exams are linked periodically.
 
 ## `Tasks💻`
 1. [T01 | Environment Setup](https://github.com/marceljsh/COURSE-procedural/tree/main/2122-ge-t00-environment-setup-marceljsh)
