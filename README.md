@@ -5,7 +5,7 @@ _Pemrograman Prosedural_ (`PEMPROS`) is a course of Information Systems students
 
 ## `Tasks💻`
 1. [T00 | Environment Setup](https://github.com/marceljsh/COURSE-procedural/tree/main/2122-ge-t00-environment-setup-marceljsh)
-2. [T01 | Data Type & Variable]https://github.com/marceljsh/COURSE-procedural/tree/main/2122-ge-t01-datatype-variable-marceljsh)
+2. [T01 | Data Type & Variable](https://github.com/marceljsh/COURSE-procedural/tree/main/2122-ge-t01-datatype-variable-marceljsh)
 3. [T02 | Control Structure](https://github.com/marceljsh/COURSE-procedural/tree/main/2122-ge-t02-control-structure-marceljsh)
 4. [T03 | Array](https://github.com/marceljsh/COURSE-procedural/tree/main/2122-ge-t03-array-marceljsh)
 5. [T04 | String](https://github.com/marceljsh/COURSE-procedural/tree/main/2122-ge-t04-string-marceljsh)
